@@ -5,7 +5,7 @@ import os
 import hashlib
 
 # Define the path of the directory where the files are located
-folder_path = "C:/mis_archivos"
+folder_path = "C:/my_files"
 
 # Create a dictionary to store the hash of each file and its name
 file_hashes = {}
